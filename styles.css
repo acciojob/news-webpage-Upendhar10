@@ -22,7 +22,7 @@ main {
 }
 
 .latest-news-section {
-	width:33%;
+	width:30%;
 	padding:10px;
 	background-color:#fff;
 	margin:5px;
@@ -31,7 +31,7 @@ main {
 }
 
 .main-section {
-	width:33%;
+	width:40%;
 	background-color:#fff;
 	margin:5px;
 	padding:10px;
@@ -40,7 +40,7 @@ main {
 }
 
 .pictorial-news-section {
-	width:33%;
+	width:30%;
 	background-color:#fff;
 	padding:10px;
 	text-align:center;
